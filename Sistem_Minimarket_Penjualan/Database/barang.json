@@ -1,0 +1,44 @@
+[
+   {
+        "id_barang": "01",
+        "nama_barang": "Ultra Milk",
+        "kategori": "Minuman",
+        "harga": 5000,
+        "stok": 16
+   },
+   {
+        "id_barang": "02",
+        "nama_barang": "Chitato",
+        "kategori": "Snack",
+        "harga": 5000,
+        "stok": 20
+   },
+   {
+        "id_barang": "03",
+        "nama_barang": "Aqua",
+        "kategori": "Minuman",
+        "harga": 10000,
+        "stok": 20
+   },
+   {
+        "id_barang": "04",
+        "nama_barang": "Le Mineral",
+        "kategori": "Minuman",
+        "harga": 5000,
+        "stok": 20
+   },
+   {
+        "id_barang": "09",
+        "nama_barang": "Teh Sisri",
+        "kategori": "Minuman",
+        "harga": 10000,
+        "stok": 20
+   },
+   {
+        "id_barang": "05",
+        "nama_barang": "Teh Gelas",
+        "kategori": "Minuman",
+        "harga": 2000,
+        "stok": 20
+   }
+]
