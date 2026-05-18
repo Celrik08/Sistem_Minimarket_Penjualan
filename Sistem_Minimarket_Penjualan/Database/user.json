@@ -1,0 +1,22 @@
+[
+   {
+      "id_user": 1,
+      "username": "Muhammad Fajar",
+      "password": "2509106117",
+      "role": "admin"
+   }
+,
+   {
+        "id_user": 2,
+        "username": "Aril",
+        "password": "Aril123",
+        "role": "pembeli"
+   }
+,
+   {
+        "id_user": 3,
+        "username": "Fajar",
+        "password": "Fajar123",
+        "role": "kasir"
+   }
+]
