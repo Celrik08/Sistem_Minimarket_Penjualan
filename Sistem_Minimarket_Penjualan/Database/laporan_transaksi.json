@@ -1,0 +1,10 @@
+[
+    {
+        "id_laporan": 1,
+        "id_transaksi": "TRX16052026001",
+        "tanggal_transaksi": "16-5-2026",
+        "nama_kasir": "Fajar",
+        "nama_pembeli": "Aril",
+        "total_pemasukan ": 20000
+    }
+]
